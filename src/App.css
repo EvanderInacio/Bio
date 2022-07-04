@@ -23,14 +23,17 @@
 .App-main h1{
   margin-top: 5px;
   margin-bottom: 1px;
+  font-size: 3rem;
 }
 
 .description{
-  margin-top: 5px;
+  margin-top: 4px;
+  font-size: 1.5rem;
   color: rgb(33, 84, 252);
 }
 
 .Container{
+  margin-top: 2rem;
   margin-bottom: 5rem;
 }
 
@@ -94,12 +97,11 @@
 
 ::-webkit-scrollbar {
   width: 0.6rem;
-  background-color: #171515;
+  background-color: #ffffff;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #ffffff;
-  border-radius: 0.7rem;
+  background-color: rgb(69, 16, 203);
 }
 
 @media (min-width: 768px){

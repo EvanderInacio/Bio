@@ -1,8 +1,8 @@
 <h1 align="center">
-  Bio - Evander Inacio
+  Bio - Evander Inácio ☕
 </h1>
 
-![Resultado final do projeto](https://github.com/EvanderInacio/Bio/tree/main/src/assets/bio.png)
+![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/Bio/main/src/assets/bio.png)
 
 <br>
 
@@ -10,7 +10,7 @@
 
 Bio contendo os links das minhas redes sociais.  
 
-- site final: [Bio](https://bio-bice.vercel.app/)
+- site final: [Bio-Evander-Inacio](https://bio-bice.vercel.app/)
 
 <br>
 

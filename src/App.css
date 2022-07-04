@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 30vmin;
+  border-radius: 50%;
+  border: 10px solid rgb(102, 232, 252);
+}
+
+.App-main {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-main h1{
+  margin-top: 5px;
+  margin-bottom: 1px;
+}
+
+.description{
+  margin-top: 5px;
+  color: rgb(43, 91, 249);
+}
+
+.App-link {
+  color: #ffffff;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 100px;
+  margin: .8rem 0;
+}
+
+.Portfolio{
+  background-color: #8704f9;
+}
+
+.Github{
+  background-color: #171515;
+}
+
+.Linkedin{
+  background-color: #0059d5;
+}
+
+.WhatsApp{
+  background-color: #06f121;
+}
+
+.Twitter{
+  background-color: #00bfff;
+}
+
+.Facebook{
+  background-color: #0026ff;
+}
+
+::-webkit-scrollbar {
+  width: 0.6rem;
+  background-color: #171515;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ffffff;
+  border-radius: 0.7rem;
+}
+
+
+@media (min-width: 768px){
+ .Container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+  }
+}
+

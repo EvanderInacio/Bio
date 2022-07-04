@@ -3,14 +3,15 @@
 }
 
 .App-logo {
+  margin-top: 2rem;
   height: 30vmin;
   border-radius: 50%;
-  border: 10px solid rgb(102, 232, 252);
+  border: 10px solid rgb(69, 16, 203);
 }
 
 .App-main {
-  background-color: #282c34;
   min-height: 100vh;
+  background-color: #282c34;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,7 +27,11 @@
 
 .description{
   margin-top: 5px;
-  color: rgb(43, 91, 249);
+  color: rgb(33, 84, 252);
+}
+
+.Container{
+  margin-bottom: 5rem;
 }
 
 .App-link {
@@ -40,26 +45,50 @@
 }
 
 .Portfolio{
-  background-color: #8704f9;
+  background-color: #8800ffb7;
+}
+
+.Portfolio:hover{
+  background-color: #8800ff;
 }
 
 .Github{
-  background-color: #171515;
+  background-color: #090707aa;
+}
+
+.Github:hover{
+  background-color: #090707;
 }
 
 .Linkedin{
-  background-color: #0059d5;
+  background-color: #006affaf;
+}
+
+.Linkedin:hover{
+  background-color: #016bff;
 }
 
 .WhatsApp{
-  background-color: #06f121;
+  background-color: #03ff20a5;
+}
+
+.WhatsApp:hover{
+  background-color: #05fe22;
 }
 
 .Twitter{
+  background-color: #00befe9c;
+}
+
+.Twitter:hover{
   background-color: #00bfff;
 }
 
 .Facebook{
+  background-color: #0026ff84;
+}
+
+.Facebook:hover{
   background-color: #0026ff;
 }
 
@@ -73,7 +102,6 @@
   border-radius: 0.7rem;
 }
 
-
 @media (min-width: 768px){
  .Container {
     display: grid;
@@ -81,4 +109,3 @@
     gap: 0.8rem;
   }
 }
-

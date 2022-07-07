@@ -10,7 +10,7 @@
 
 Bio contendo os links das minhas redes sociais.  
 
-- site final: [Bio-Evander-Inacio](https://bio-bice.vercel.app/)
+- site final: [Bio-Evander-Inacio](https://evander-bio.vercel.app/)
 
 <br>
 
